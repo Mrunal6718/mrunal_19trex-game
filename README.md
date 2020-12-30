@@ -1,1 +1,2 @@
-# PRO-19-trex-master
+# trex
+Chrome's trex game created using p5.play
